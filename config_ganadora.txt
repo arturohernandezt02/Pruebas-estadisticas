@@ -1,0 +1,7 @@
+=== COMBINACIÓN GANADORA DE GENERADOR ===
+Semilla (X0): 9432
+Constante Multiplicativa (a): 2241
+Incremento (c): 23
+Módulo (m): 10000
+Cantidad de Números Evaluados (N): 10000
+Resultado: Aprobado por todas las pruebas de independencia (Promedios, Frecuencias, Póquer, Corridas).
