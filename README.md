@@ -4,6 +4,8 @@ Este proyecto es una aplicación de escritorio desarrollada en Python con la bib
 
 La aplicación permite experimentar con diferentes parámetros de generación y realizar pruebas de independencia matemáticas de forma inmediata, facilitando la identificación de combinaciones de parámetros que pasen los criterios estadísticos de aleatoriedad.
 
+<img width="1359" height="695" alt="pruebasestadisticas" src="https://github.com/user-attachments/assets/2b1abf40-3656-40b1-9f02-660e0c4995b4" />
+
 ---
 
 ## Propósito y ¿Para qué sirve?
